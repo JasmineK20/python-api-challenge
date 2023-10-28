@@ -32,3 +32,7 @@ Southern Hemisphere: Cloudiness vs. Latitude
 Northern Hemisphere: Wind Speed vs. Latitude
 
 Southern Hemisphere: Wind Speed vs. Latitude
+
+
+**Part 2**: VacationPy
+![image](https://github.com/JasmineK20/python-api-challenge/assets/135649789/789acc3f-226d-4483-ac8d-5e5f97b09ee7)
