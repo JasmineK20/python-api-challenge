@@ -2,8 +2,7 @@ Instructions
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 Part 1: WeatherPy 
-
-#Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+**Requirement 1**: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 Latitude vs. Temperature
 
 Latitude vs. Humidity
