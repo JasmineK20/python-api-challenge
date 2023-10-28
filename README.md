@@ -3,7 +3,7 @@ This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 Part 1: WeatherPy 
 
-####Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+#Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 Latitude vs. Temperature
 
 Latitude vs. Humidity
@@ -14,7 +14,7 @@ Latitude vs. Wind Speed
 
 
 
-####Requirement 2: Compute Linear Regression for Each Relationship
+#Requirement 2: Compute Linear Regression for Each Relationship
 
 Northern Hemisphere: Temperature vs. Latitude
 
